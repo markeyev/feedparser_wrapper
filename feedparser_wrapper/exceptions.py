@@ -1,0 +1,2 @@
+class NotChanged(Exception):
+    pass
